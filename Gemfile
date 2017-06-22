@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'pg'
+gem 'redis'
+gem 'rails'
+gem 'paperclip'
+gem 'aws-sdk'
+gem 'activemerchant'
+gem 'honeybadger'
+gem 'liquid'
+gem 'rake'
+gem 'nokogiri'
