@@ -1,4 +1,5 @@
 language: ruby
 script: ruby ./test.rb
+cache: bundler
 rvm:
   - 2.3.4
